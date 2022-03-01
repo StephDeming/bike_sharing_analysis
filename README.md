@@ -7,7 +7,7 @@ To show the bikesharing operation and success in NYC in order to gain funding fo
 
 ## Results
 
-(link to Tableau Story) https://public.tableau.com/app/profile/stephenie.strode/viz/mod14Challenge/Story1?publish=yes
+[Tableau Story](https://public.tableau.com/app/profile/stephenie.strode/viz/mod14Challenge/Story1?publish=yes)
 
 Checkout Times for Users
 
